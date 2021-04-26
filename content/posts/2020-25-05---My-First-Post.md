@@ -11,6 +11,8 @@ tags:
   - "Web Development"
 description: "A list of what I would like to showcase here moving forward."
 socialImage: "/media/profile.jpg"
+videoSourceURL: https://vimeo.com/410907407
+videoTitle: "Gatsby is Never Gonna Give You Up"
 ---
 
 - [The first transition](#the-first-transition)
